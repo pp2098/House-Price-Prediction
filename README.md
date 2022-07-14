@@ -5,7 +5,7 @@ In supervised learning when our target variable (TV)is numeric in nature Regress
 In this particular problem we have to predict the price of a house on the basis of bedromm,area, and age of the buyer.
 Since here our TV is numeric in nature we use Linear Regression for prediction.
 
-Data collection: very small dataset collected from some internet source.
+Data collection: very small dataset created using pandas Dataset.
 
 Data Cleaning:No Data cleaning/preprocessing is required.
 
